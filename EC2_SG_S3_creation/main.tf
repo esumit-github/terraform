@@ -14,9 +14,7 @@ provider "aws" {
   region  = "us-east-1"
   profile = "AWS-EC2"
   
-  #aws_access_key = "AKIAUG4CVSFQ4D5BAPOH"
-  #aws_secret_key = "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"
-  #shared_config_files = "~\\.aws\\credentials"
+
 }
 
 #Resource to Create Key Pair
